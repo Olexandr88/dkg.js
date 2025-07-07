@@ -31,7 +31,7 @@
   </summary>
   <ol>
     <li>
-      <a href="#📚-about-the-project">📚 About The Project</a>
+      <a href="#📚about-the-project">📚 About The Project</a>
       <ul>
         <li><a href="#what-is-the-decentralized-knowledge-graph">What is the Decentralized Knowledge Graph?</a></li>
         <li><a href="#the-origintrail-dkg-architecture">The OriginTrail DKG Architecture</a></li>
